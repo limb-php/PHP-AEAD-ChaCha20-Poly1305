@@ -1,7 +1,7 @@
-RFC 7539 ChaCha20/Poly1305 AEAD construction
+RFC 8439 ChaCha20/Poly1305 AEAD construction
 ============================================
 
-This library contains a pure PHP implementation of the RFC 7539 ChaCha20/Poly1305 [AEAD construction](https://en.wikipedia.org/wiki/Authenticated_encryption).
+This library contains a pure PHP implementation of the RFC 8439 ChaCha20/Poly1305 [AEAD construction](https://en.wikipedia.org/wiki/Authenticated_encryption).
 
 ### Usage:
 
